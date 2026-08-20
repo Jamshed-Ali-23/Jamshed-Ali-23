@@ -52,7 +52,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🤖 AI Research Agent**
+**🤖 [AI Research Agent](https://github.com/Jamshed-Ali-23/AI-Company-Research-Agent)**
 Autonomous multi-agent research system built on **LangGraph** — plans, searches, scrapes, fact-checks, and writes full reports with citations. Exports to PDF/DOCX/Markdown/HTML with RAG over uploaded documents.
 <br/><sub>Python · LangGraph · LangChain · FastAPI · ChromaDB</sub>
 
@@ -104,6 +104,20 @@ Collection of AI-powered automation workflows connecting LLMs, APIs, and busines
 <img src="https://streak-stats.demolab.com?user=Jamshed-Ali-23&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamshed-Ali-23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" width="100%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
