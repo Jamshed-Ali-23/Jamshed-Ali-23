@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Jamshed%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20AI%20Agents%20%7C%20n8n%20Automation%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Jamshed%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Building%20AI%20Agents" />
 
 <a href="https://github.com/Jamshed-Ali-23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+n8n+Automations;LLMs+%7C+RAG+%7C+LangChain+%7C+LangGraph;Turning+Data+into+Intelligent+Systems;Open+to+Remote+AI+Engineering+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+n8n+Automation;LLMs%2CRAG%2CMcp%2CLangChain;Python%2CFastAPI%2CTensorFlow" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jamshed-Ali-23&label=Profile%20Views&color=8e2de2&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Jamshed-Ali-23?label=Followers&style=for-the-badge&color=8e2de2" />
+<img src="https://komarev.com/ghpvc/?username=Jamshed-Ali-23&label=Profile%20Views&color=8e2de2&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Jamshed-Ali-23?label=Followers&style=for-the-badge&color=8e2de2" alt="Followers" />
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,java,js,tensorflow,sklearn,opencv,fastapi,docker,mongodb,postgres,git,github" />
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js,tensorflow,sklearn,opencv,fastapi,docker,mongodb,postgres,git,github" alt="Tech Stack" />
 
 <br/><br/>
 
@@ -98,12 +98,12 @@ Collection of AI-powered automation workflows connecting LLMs, APIs, and busines
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jamshed-Ali-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshed-Ali-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jamshed-Ali-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshed-Ali-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=Jamshed-Ali-23&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" />
+<img src="https://streak-stats.demolab.com?user=Jamshed-Ali-23&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamshed-Ali-23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamshed-Ali-23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -139,10 +139,10 @@ Collection of AI-powered automation workflows connecting LLMs, APIs, and busines
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jamshedali23/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Jamshed-Ali-23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -151,4 +151,4 @@ Collection of AI-powered automation workflows connecting LLMs, APIs, and busines
 <sub>⭐ If you like my work, consider giving a star!</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%" alt="Footer"/>
