@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Jamshed%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Building%20AI%20Agents" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Jamshed%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A[...]" />
 
 <a href="https://github.com/Jamshed-Ali-23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+n8n+Automation;LLMs%2CRAG%2CMcp%2CLangChain;Python%2CFastAPI%2CTensorFlow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+n8n+Automati[...]" />
 </a>
 
 <br/>
@@ -53,7 +53,7 @@
 <td width="50%" valign="top">
 
 **🤖 [AI Research Agent](https://github.com/Jamshed-Ali-23/AI-Company-Research-Agent)**
-Autonomous multi-agent research system built on **LangGraph** — plans, searches, scrapes, fact-checks, and writes full reports with citations. Exports to PDF/DOCX/Markdown/HTML with RAG over uploaded documents.
+Autonomous multi-agent research system built on **LangGraph** — plans, searches, scrapes, fact-checks, and writes full reports with citations. Exports to PDF/DOCX/Markdown/HTML with RAG over upl[...]
 <br/><sub>Python · LangGraph · LangChain · FastAPI · ChromaDB</sub>
 
 </td>
@@ -98,12 +98,12 @@ Collection of AI-powered automation workflows connecting LLMs, APIs, and busines
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jamshed-Ali-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshed-Ali-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jamshed-Ali-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" a[...]
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshed-Ali-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" alt="Top [...]
 
 <img src="https://streak-stats.demolab.com?user=Jamshed-Ali-23&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamshed-Ali-23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamshed-Ali-23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" width="100%" alt=[...]
 
 </div>
 
@@ -114,9 +114,9 @@ Collection of AI-powered automation workflows connecting LLMs, APIs, and busines
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/main/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/main/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
