@@ -98,8 +98,8 @@ Collection of AI-powered automation workflows connecting LLMs, APIs, and busines
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jamshed-Ali-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" a[...]
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshed-Ali-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" alt="Top [...]
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshed-Ali-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jamshed-Ali-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com?user=Jamshed-Ali-23&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" alt="GitHub Streak" />
 
@@ -114,9 +114,9 @@ Collection of AI-powered automation workflows connecting LLMs, APIs, and busines
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/main/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/main/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/main/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Jamshed-Ali-23/Jamshed-Ali-23/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
